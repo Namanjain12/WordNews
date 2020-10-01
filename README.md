@@ -1,4 +1,4 @@
-# WordNews
+# WordNews Code Summary
 
 I've created a single repo to house all of the WordNews code:
 
